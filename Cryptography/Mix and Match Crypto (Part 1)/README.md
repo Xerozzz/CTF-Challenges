@@ -4,7 +4,8 @@
 Medium
 
 ## Challenge
-Damm, how the heck do I read this, if only Black Panther was here. Wait, that's not all? What's this about SHAs?
+Damm, how the heck do I read this, if only Black Panther was here. Wait, that's not all? What's this about SHAs? 
+![alt text](https://github.com/Xerozzz/CTF-Challenges/blob/master/Cryptography/Mix%20and%20Match%20Crypto%20(Part%201)/CJLjIGsbzX7uERbs4riwhAeF.png "Image")
 
 <details>
 <summary>Hint</summary> 
