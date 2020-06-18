@@ -1,5 +1,6 @@
 # Base (Part 1)
-
+### Difficulty 
+Beginner
 ## Challenge
 What is this gibberish? `YmFzZTY0X2lzX3NvX2Nvb2w` 
 
