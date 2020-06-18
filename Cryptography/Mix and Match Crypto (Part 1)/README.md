@@ -1,13 +1,14 @@
-# Base (Part 1)
+# Mix and Match Crypto (Part 1)
 
 ### Difficulty Level 
-
+Medium
 
 ## Challenge
+Damm, how the heck do I read this, if only Black Panther was here. Wait, that's not all? What's this about SHAs?
 
 <details>
 <summary>Hint</summary> 
-
+You may need to do more than one step! Numbers are shifted accordingly too!
 </details>
 
 Flag format: myCTF{}
