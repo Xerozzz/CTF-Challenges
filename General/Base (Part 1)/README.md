@@ -13,4 +13,5 @@ Maybe try out using bases!
 
 Flag format: myCTF{}
 
+*The answer you will obtain is not in the flag format, please wrap it with the correct format*
 *Answers can be found in flag.txt*
