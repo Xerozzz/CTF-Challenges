@@ -1,5 +1,5 @@
 # CTF Challenges
-A repo of the CTF challenges I made myself for fun and experience! Each challenge is labelled with varying difficulties of Beginner, Easy, Medium and Hard. Take note these difficulties are all geared towards beginners as I am no pro myself as well. 
+A repo of the CTF challenges I made myself for fun and experience! Each challenge is labelled with varying difficulties of Beginner, Easy, Medium and Hard. Take note these difficulties are all geared towards beginners as I am no pro myself as well. Harder challenges may require a mix of techniques, for example, mixing cryptography with forensics.
 
 <br>
 Unfortunately, for now there is no way to do a input check for the flag, maybe in the future I will create a simple front end just for flag checking. For now, the flag will be stored in a separate file in the challenge folder, labelled "flag.txt". 
